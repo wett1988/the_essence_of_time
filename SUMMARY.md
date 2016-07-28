@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Предисловие](README.md)
+* [Выпуск №1](chapter1.md)
+
